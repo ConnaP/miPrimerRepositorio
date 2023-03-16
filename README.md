@@ -16,8 +16,8 @@
 	1. HTML
 	2. CSS
 
-#### Agradecimientos  
-> Bootcamp UDD
-
 #### URL proyecto
 [Aquí](https://www.google.cl)
+
+#### Agradecimientos  
+> Bootcamp UDD
