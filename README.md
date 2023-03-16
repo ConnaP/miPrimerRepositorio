@@ -15,6 +15,13 @@
 #### Tecnologías utilizadas
 	1. HTML
 	2. CSS
+	
+#### Mockup's
+> Desktop
+![plot](./mockup-desktop.png)
+
+> Mobile
+![plot](./mockup-mobile.png)
 
 #### URL proyecto
 [Aquí](https://www.google.cl)
