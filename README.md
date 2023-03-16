@@ -17,10 +17,10 @@
 	2. CSS
 	
 #### Mockup's
-> Desktop
+##### Desktop
 ![plot](./mockup-desktop.png)
 
-> Mobile
+##### Mobile
 ![plot](./mockup-mobile.png)
 
 #### URL proyecto
