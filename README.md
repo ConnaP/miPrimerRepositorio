@@ -1,12 +1,12 @@
 **ESTA ES LA DESCRICIÓN DEL PROYECTO**
 
-# Secciones:
+### Secciones:
 	1. Header
 	2. Jumbootrom
 	3. Catálogo
 	4. Adicionales
 
-## Sub-Sección:
+### Sub-Sección:
 	1. Formulario de registro
 
 
@@ -14,7 +14,7 @@
 	1. HTML
 	2. CSS
 
-#### Contenido
+### Contenido
 	1. Página de venda de zapatos (mujer)
 
-##### Agradecimientos  <sub>Bootcamp UDD</sub>
+### Agradecimientos  <sub>Bootcamp UDD</sub>
