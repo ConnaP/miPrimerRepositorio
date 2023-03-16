@@ -7,7 +7,7 @@
 	4. Adicionales
 
 #### Sub-Sección:
-	1. Formulario de registro
+	1. Formulario de registro.
 
 
 #### Tecnologías utilizadas
@@ -15,6 +15,7 @@
 	2. CSS
 
 #### Contenido
-	1. Página de venda de zapatos (mujer)
+	1. Página de venta de zapatos.
 
-#### Agradecimientos  <sub>Bootcamp UDD</sub>
+#### Agradecimientos  
+> Bootcamp UDD
